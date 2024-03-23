@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	background-color:yellow;
+	text-align:center;
+}
+
+#flower1{
+	height:250px;
+	display:inline;
+}
+#flower2{
+	height:250px;
+	width:300px;
+	display:inline;
+}
+p{
+	display:inline;
+}
+
